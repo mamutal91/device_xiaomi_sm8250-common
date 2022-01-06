@@ -5,13 +5,11 @@
   },
   {
     "repository": "kernel_xiaomi_sm8250",
-    "target_path": "kernel/xiaomi/sm8250",
-    "branch": "twelve-ay"
+    "target_path": "kernel/xiaomi/sm8250"
   },
   {
     "remote": "blobs",
     "repository": "vendor_xiaomi_sm8250-common",
-    "target_path": "vendor/xiaomi/sm8250-common",
-    "branch": "twelve-su"
+    "target_path": "vendor/xiaomi/sm8250-common"
   }
 ]
